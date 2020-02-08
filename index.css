@@ -1,0 +1,32 @@
+html, body{
+    background-color: #000;
+
+
+/*body{
+    position:relative;
+}*/
+#space-jam{
+    border: 2px solid white;
+    width: 496px;
+    height: 420px;
+    vertical-align: center;
+    position:absolute;
+    
+    /*top: 50%;
+    left: 50%;
+    /*margin needs to equal half of width and height*/
+    /*margin: */
+
+    /*margin-top: 212px;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: -250px;*/
+}
+
+#container{
+    border: 1px solid red;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+}
